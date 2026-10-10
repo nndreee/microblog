@@ -1,0 +1,4 @@
+--pycache__
+__pycache__
+*.py[cod]
+.flaskenv
